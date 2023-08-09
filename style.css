@@ -1,0 +1,156 @@
+body {
+	background:#def8f1df;
+}
+.logofont{
+	
+	font-family: 'Lobster', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Oleo Script', cursive;
+}
+.navigate{
+	background:#00ABE4;
+}
+
+
+.skill{
+	font-family: 'Lobster', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Oleo Script', cursive;
+text-decoration:none;
+color:green;
+}
+.text .headtext{
+	color:#283D62;
+}
+
+
+
+
+#banner{
+	
+	min-height:100px;
+	background-image:url("pro.jpg");
+	background-size:contain;
+	background-attachment:fixed;
+	
+}
+.overlay{
+	width:100%;
+	height:500px;
+	background-color:rgba(0,0,0,0.7);
+	margin-top:0px;
+padding-top:10px;
+}
+.get{
+	color:green;
+}
+.img{
+	width:45%;
+  height:10%;
+  padding:2px;
+}
+.imgone{
+	width:45%;
+  height:10%;
+  padding:20px;
+}
+.imgtwo{
+	width:50%;
+  height:10%;
+  padding:20px;
+}
+.imgth{
+	width:50%;
+  height:10%;
+  padding:20px;
+}
+.imgf{
+	width:50%;
+  height:10%;
+  padding:20px;
+}
+.imgfi{
+	width:50%;
+  height:10%;
+  padding:5px;
+}
+.imgsi{
+	width:50%;
+  height:10%;
+  padding:20px;
+}
+.imgse{
+	width:50%;
+  height:10%;
+  padding:20px;
+}
+.card{
+	border-radius:15px 15px;
+	background:black;
+	color:white;
+	width:100%;
+}
+.imgs{
+	width:45%;
+  height:10%;
+  padding:20px;
+}
+.imgss{
+	width:45%;
+  height:10%;
+padding:20px;}
+ul li{
+	list-style-type:none;
+	display:inline-block;
+	border:0px solid black;	
+	padding-right:20px;
+	margin-top:0px;
+	justify-content:center;
+color:white;
+text-decoration:none;}
+a{
+	text-decoration:none;
+	color:white;
+	
+	
+}
+.divv{
+	background-color:#4BA29E;
+	 border:3px dashed white;
+	 min-height:300px;
+	justify-content:center;
+	align-items:center;
+	gap:1;
+	margin-left:10px;
+	border-radius:20px;
+
+	 }
+	 .divco{
+		min-height:400px;
+		 background-color:black;
+	 }
+	 #contact{
+		 font-weight:bolder;
+	 }
+	 .pic{
+		 justify-content:center;
+		 align-items:center;
+		 margin-top:100px;
+	 }
+	 .inp{
+		 border:0px;
+		 color:black;
+		 border-radius:5px;
+	 }
+	 .socialone{
+	width:3%;
+	height:40px;
+position:fixed;
+right:20px;
+bottom:20px;
+color:gold;
+background-color:black;
+border-radius:50%;
+}
